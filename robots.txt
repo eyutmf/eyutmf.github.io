@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eyutmf.github.io/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/app/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/assets/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/css/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/data/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/includes/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/item/sitemap.html.gz
+Sitemap: https://eyutmf.github.io/src/sitemap.html.gz
